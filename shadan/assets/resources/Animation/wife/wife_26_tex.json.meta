@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "317c60e9-aedd-4b2f-b0df-9d35367cc8a9",
+  "atlasJson": "{\"width\":247,\"imagePath\":\"wife_26_tex.png\",\"height\":246,\"name\":\"wife_26\",\"SubTexture\":[{\"width\":86,\"y\":215,\"height\":29,\"name\":\"shadow\",\"x\":114},{\"width\":24,\"y\":95,\"height\":64,\"name\":\"hat\",\"x\":196},{\"width\":94,\"y\":1,\"height\":92,\"name\":\"body\",\"x\":112},{\"width\":109,\"y\":1,\"height\":139,\"name\":\"head\",\"x\":1},{\"width\":36,\"y\":197,\"height\":33,\"name\":\"beard\",\"x\":202},{\"width\":80,\"y\":95,\"height\":71,\"name\":\"face_sad\",\"x\":114},{\"width\":66,\"y\":168,\"height\":45,\"name\":\"face_normal\",\"x\":114},{\"width\":63,\"y\":168,\"height\":27,\"name\":\"cloth\",\"x\":182},{\"width\":111,\"y\":142,\"height\":100,\"name\":\"arm\",\"x\":1}]}",
+  "texture": "e64dc678-a5fb-41e8-a5b9-c6bbf42d2fe9",
+  "subMetas": {}
+}

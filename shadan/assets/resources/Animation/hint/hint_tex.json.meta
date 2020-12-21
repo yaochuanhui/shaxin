@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8ff68bb6-2e2b-4306-afa5-aa3e759c7851",
+  "atlasJson": "{\"width\":163,\"imagePath\":\"hint_tex.png\",\"height\":129,\"name\":\"hint\",\"SubTexture\":[{\"width\":78,\"y\":1,\"height\":100,\"name\":\"g2\",\"x\":1},{\"width\":24,\"y\":103,\"height\":24,\"name\":\"spot2\",\"x\":1},{\"width\":80,\"y\":1,\"height\":86,\"name\":\"light3\",\"x\":81}]}",
+  "texture": "1b2fea34-26f4-45aa-b789-1dd863bc14e6",
+  "subMetas": {}
+}

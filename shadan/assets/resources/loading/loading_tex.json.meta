@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9ece188d-31b0-434c-a016-a37d91dad35d",
+  "atlasJson": "{\"width\":237,\"SubTexture\":[{\"width\":45,\"y\":168,\"height\":81,\"name\":\"hat3\",\"x\":190},{\"width\":223,\"y\":1,\"height\":165,\"name\":\"body\",\"x\":1},{\"width\":105,\"y\":282,\"height\":109,\"name\":\"face\",\"x\":1},{\"width\":101,\"y\":282,\"height\":63,\"name\":\"hat2\",\"x\":108},{\"frameWidth\":110,\"y\":393,\"frameHeight\":60,\"width\":110,\"frameX\":0,\"height\":59,\"name\":\"hat1\",\"frameY\":0,\"x\":78},{\"width\":75,\"y\":393,\"height\":89,\"name\":\"face1\",\"x\":1},{\"width\":164,\"y\":168,\"height\":112,\"name\":\"book\",\"x\":1}],\"height\":484,\"name\":\"loading\",\"imagePath\":\"loading_tex.png\"}",
+  "texture": "899881c9-d4be-4429-bd96-a1f95f337bf6",
+  "subMetas": {}
+}

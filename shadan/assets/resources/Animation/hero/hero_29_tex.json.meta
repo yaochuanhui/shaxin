@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d68b10ae-f38e-4c66-a242-7132daa89953",
+  "atlasJson": "{\"width\":251,\"SubTexture\":[{\"width\":86,\"y\":396,\"height\":29,\"name\":\"shadow\",\"x\":1},{\"width\":150,\"y\":191,\"height\":132,\"name\":\"body\",\"x\":1},{\"width\":217,\"y\":1,\"height\":188,\"name\":\"head\",\"x\":1},{\"width\":95,\"y\":191,\"height\":89,\"name\":\"face_normal\",\"x\":153},{\"width\":75,\"y\":350,\"height\":70,\"name\":\"face_happy\",\"x\":89},{\"width\":96,\"y\":282,\"height\":66,\"name\":\"face_expect\",\"x\":153},{\"width\":86,\"y\":325,\"height\":69,\"name\":\"face_sad\",\"x\":1},{\"width\":36,\"y\":350,\"height\":27,\"name\":\"beard\",\"x\":166},{\"width\":7,\"y\":325,\"height\":13,\"name\":\"star\",\"x\":89},{\"width\":28,\"y\":1,\"height\":28,\"name\":\"beard1\",\"x\":220}],\"height\":427,\"name\":\"hero_29\",\"imagePath\":\"hero_29_tex.png\"}",
+  "texture": "ccf68144-026e-4c5c-8ae5-6a06ab306720",
+  "subMetas": {}
+}

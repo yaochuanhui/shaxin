@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c6c677f2-a0a0-404b-b665-58bfa837f19d",
+  "atlasJson": "{\"imagePath\":\"giftbox_tex.png\",\"width\":79,\"height\":119,\"name\":\"giftbox\",\"SubTexture\":[{\"width\":76,\"y\":1,\"height\":76,\"name\":\"box\",\"x\":1},{\"width\":27,\"y\":79,\"height\":38,\"name\":\"thunder\",\"x\":1}]}",
+  "texture": "b53d11bc-7bbe-47e3-825a-2962390b1d90",
+  "subMetas": {}
+}

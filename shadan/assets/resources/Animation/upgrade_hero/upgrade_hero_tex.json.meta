@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5d59f745-dbb1-4d95-a84c-71062f35feb5",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"upgrade_hero_tex.png\",\"height\":512,\"name\":\"upgrade_hero\",\"SubTexture\":[{\"width\":410,\"y\":1,\"height\":225,\"name\":\"paper02\",\"x\":1},{\"width\":68,\"y\":1,\"height\":352,\"name\":\"paper01\",\"x\":413},{\"y\":1,\"frameY\":0,\"frameWidth\":26,\"width\":25,\"frameX\":-1,\"frameHeight\":90,\"height\":90,\"name\":\"trailing\",\"x\":483},{\"width\":88,\"y\":355,\"height\":88,\"name\":\"star2\",\"x\":1}]}",
+  "texture": "4d8f3218-51a1-4dd5-84d3-6f6f58672a17",
+  "subMetas": {}
+}

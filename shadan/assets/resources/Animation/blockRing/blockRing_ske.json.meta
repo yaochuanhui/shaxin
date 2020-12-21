@@ -1,0 +1,6 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a0f98d93-e600-4928-b881-3d09e304e179",
+  "dragonBonesJson": "{\"frameRate\":24,\"name\":\"blockRing\",\"version\":\"5.5\",\"compatibleVersion\":\"5.5\",\"armature\":[{\"type\":\"Armature\",\"frameRate\":24,\"name\":\"root\",\"aabb\":{\"x\":-21.5,\"y\":-21.5,\"width\":43,\"height\":43},\"bone\":[{\"name\":\"root\"},{\"name\":\"grid3\",\"parent\":\"root\"}],\"slot\":[{\"blendMode\":\"add\",\"name\":\"grid3\",\"parent\":\"grid3\"}],\"skin\":[{\"slot\":[{\"name\":\"grid3\",\"display\":[{\"name\":\"grid\",\"path\":\"grid2\"}]}]}],\"animation\":[{\"duration\":11,\"playTimes\":0,\"name\":\"blockRing\",\"bone\":[{\"name\":\"grid3\",\"translateFrame\":[{\"duration\":11,\"x\":1.56}],\"scaleFrame\":[{\"duration\":9,\"curve\":[0,0,0.5,1],\"x\":1.4,\"y\":1.4},{\"duration\":2,\"x\":2.3,\"y\":2.3}]}],\"slot\":[{\"name\":\"grid3\",\"colorFrame\":[{\"duration\":2},{\"duration\":9,\"tweenEasing\":0,\"value\":{\"gM\":95,\"bM\":14}},{\"duration\":0,\"value\":{\"aM\":0,\"gM\":95,\"bM\":14}}]}]}],\"defaultActions\":[{\"gotoAndPlay\":\"blockRing\"}]}]}",
+  "subMetas": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "14ab6518-30f6-45e5-8be1-2079a6d97300",
+  "atlasJson": "{\"width\":103,\"imagePath\":\"finish_tex.png\",\"height\":155,\"name\":\"finish\",\"SubTexture\":[{\"width\":82,\"y\":1,\"height\":80,\"name\":\"star\",\"x\":1},{\"width\":70,\"y\":83,\"height\":70,\"name\":\"star1\",\"x\":1},{\"width\":28,\"y\":83,\"height\":32,\"name\":\"sp\",\"x\":73},{\"width\":12,\"y\":1,\"height\":31,\"name\":\"caidai1\",\"x\":85}]}",
+  "texture": "6d51e43f-5090-48cf-8cee-9f307f4fc67e",
+  "subMetas": {}
+}

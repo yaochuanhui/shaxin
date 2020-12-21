@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3d06dc43-36e7-4a98-818e-be56f045c391",
+  "atlasJson": "{\"width\":488,\"imagePath\":\"hero_19_tex.png\",\"height\":249,\"name\":\"hero_19\",\"SubTexture\":[{\"width\":86,\"y\":193,\"height\":29,\"name\":\"shadow\",\"x\":233},{\"width\":131,\"y\":1,\"height\":120,\"name\":\"body\",\"x\":139},{\"width\":136,\"y\":1,\"height\":177,\"name\":\"head\",\"x\":1},{\"width\":92,\"y\":123,\"height\":82,\"name\":\"face_normal\",\"x\":139},{\"width\":74,\"y\":123,\"height\":69,\"name\":\"face_happy\",\"x\":321},{\"width\":94,\"y\":180,\"height\":67,\"name\":\"face_expect\",\"x\":1},{\"width\":86,\"y\":123,\"height\":68,\"name\":\"face_sad\",\"x\":233},{\"width\":89,\"y\":123,\"height\":29,\"name\":\"cloth\",\"x\":397},{\"width\":18,\"y\":180,\"height\":20,\"name\":\"beard\",\"x\":97}]}",
+  "texture": "4d375536-3223-4f27-84a9-c4706d38b7d1",
+  "subMetas": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c5680656-810f-41b0-9f33-864f089bf771",
+  "atlasJson": "{\"width\":216,\"imagePath\":\"wife_9_tex.png\",\"height\":249,\"name\":\"wife_9\",\"SubTexture\":[{\"width\":86,\"y\":218,\"height\":29,\"name\":\"shadow\",\"x\":100},{\"width\":32,\"y\":64,\"height\":48,\"name\":\"hair\",\"x\":121},{\"width\":97,\"y\":140,\"height\":99,\"name\":\"body\",\"x\":1},{\"width\":118,\"y\":1,\"height\":137,\"name\":\"head\",\"x\":1},{\"width\":86,\"y\":140,\"height\":76,\"name\":\"face_sad\",\"x\":100},{\"width\":93,\"y\":1,\"height\":61,\"name\":\"face_normal\",\"x\":121}]}",
+  "texture": "ca8d7fc4-6e45-4581-b588-fe3b24d1e85d",
+  "subMetas": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "de6d7fd6-ea10-4919-8c28-eca030ae5ac4",
+  "atlasJson": "{\"width\":110,\"imagePath\":\"upgrade_house_tex.png\",\"height\":252,\"name\":\"upgrade_house\",\"SubTexture\":[{\"width\":90,\"y\":136,\"height\":75,\"name\":\"dust01\",\"x\":1},{\"width\":107,\"y\":1,\"height\":133,\"name\":\"hammer\",\"x\":1},{\"width\":41,\"y\":213,\"height\":37,\"name\":\"star001\",\"x\":1}]}",
+  "texture": "cf7c3a9d-4ece-4b5f-a1a9-a626d08dce97",
+  "subMetas": {}
+}

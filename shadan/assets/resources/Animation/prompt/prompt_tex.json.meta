@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fc725ca3-f1ff-4a22-9d5e-286a19f829b1",
+  "atlasJson": "{\"width\":89,\"SubTexture\":[{\"width\":51,\"y\":1,\"height\":51,\"name\":\"icon\",\"x\":1},{\"width\":33,\"y\":1,\"height\":51,\"name\":\"icon_2\",\"x\":54},{\"width\":9,\"y\":54,\"height\":5,\"name\":\"pot\",\"x\":1}],\"height\":61,\"name\":\"prompt\",\"imagePath\":\"prompt_tex.png\"}",
+  "texture": "8b949597-2ff1-426c-be73-c8019e1058b5",
+  "subMetas": {}
+}

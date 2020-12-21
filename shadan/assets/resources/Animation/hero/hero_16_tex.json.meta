@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e3bebe1a-69a2-46a0-b76e-b795a49ef9c8",
+  "atlasJson": "{\"width\":510,\"imagePath\":\"hero_16_tex.png\",\"height\":226,\"name\":\"hero_16\",\"SubTexture\":[{\"width\":86,\"y\":195,\"height\":29,\"name\":\"shadow\",\"x\":250},{\"width\":125,\"y\":1,\"height\":123,\"name\":\"body\",\"x\":156},{\"width\":153,\"y\":1,\"height\":197,\"name\":\"head\",\"x\":1},{\"width\":92,\"y\":126,\"height\":82,\"name\":\"face_normal\",\"x\":156},{\"width\":86,\"y\":126,\"height\":68,\"name\":\"face_sad\",\"x\":346},{\"width\":94,\"y\":126,\"height\":67,\"name\":\"face_expect\",\"x\":250},{\"width\":74,\"y\":126,\"height\":69,\"name\":\"face_happy\",\"x\":434},{\"width\":18,\"y\":196,\"height\":20,\"name\":\"beard\",\"x\":338}]}",
+  "texture": "a9d18a66-9903-4ed3-af99-cbeabcce6467",
+  "subMetas": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d984c3ea-302e-460a-9097-d518bfa28656",
+  "atlasJson": "{\"SubTexture\":[{\"width\":86,\"y\":209,\"height\":29,\"name\":\"shadow\",\"x\":1},{\"width\":179,\"y\":1,\"height\":137,\"name\":\"body\",\"x\":1},{\"width\":131,\"y\":1,\"height\":184,\"name\":\"head\",\"x\":182},{\"width\":86,\"y\":1,\"height\":69,\"name\":\"face_sad\",\"x\":315},{\"width\":96,\"y\":140,\"height\":67,\"name\":\"face_expect\",\"x\":1},{\"width\":97,\"y\":187,\"height\":63,\"name\":\"face_normal\",\"x\":99},{\"width\":76,\"y\":1,\"height\":70,\"name\":\"face_happy\",\"x\":403},{\"width\":15,\"y\":140,\"height\":33,\"name\":\"beard2\",\"x\":99},{\"width\":48,\"y\":72,\"height\":52,\"name\":\"beard1\",\"x\":315}],\"width\":481,\"height\":252,\"name\":\"hero_27\",\"imagePath\":\"hero_27_tex.png\"}",
+  "texture": "f8eec2c4-8362-4e4f-ad61-4d173537ac1b",
+  "subMetas": {}
+}

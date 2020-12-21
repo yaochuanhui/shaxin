@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7df71f88-f280-4157-b388-e2c62bdec42e",
+  "atlasJson": "{\"width\":52,\"imagePath\":\"blocker_tex.png\",\"name\":\"blocker\",\"SubTexture\":[{\"width\":49,\"y\":1,\"height\":19,\"name\":\"wood3\",\"x\":1}],\"height\":22}",
+  "texture": "87821881-bd15-4dee-8fdd-37794fc955a1",
+  "subMetas": {}
+}

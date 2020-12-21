@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "61f92baa-f6ec-4cb8-be26-e1be156532c3",
+  "atlasJson": "{\"width\":258,\"imagePath\":\"hero_1_tex.png\",\"height\":207,\"name\":\"hero_1\",\"SubTexture\":[{\"width\":86,\"y\":176,\"height\":29,\"name\":\"shadow\",\"x\":1},{\"width\":97,\"y\":1,\"height\":112,\"name\":\"body\",\"x\":159},{\"width\":156,\"y\":1,\"height\":173,\"name\":\"head\",\"x\":1}]}",
+  "texture": "d451d7db-2135-44ba-aeae-be2aecd1d74a",
+  "subMetas": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5c60fedc-09e2-43da-b44d-e96dff584e5e",
+  "atlasJson": "{\"width\":46,\"imagePath\":\"blockRing_tex.png\",\"name\":\"blockRing\",\"SubTexture\":[{\"width\":43,\"y\":1,\"height\":43,\"name\":\"grid2\",\"x\":1}],\"height\":46}",
+  "texture": "7746c64f-5c60-48b3-9727-10f257771197",
+  "subMetas": {}
+}
